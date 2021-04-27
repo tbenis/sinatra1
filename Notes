@@ -1,0 +1,22 @@
+<<<<<< files >>>>>>>>>>>
+
+--- Views ---
+==== Users
+== Account
+=Login
+=Registration
+=Profile Page
+
+==== Clubs
+=Registration
+=Individual club Profile Page
+= Show all clubs 
+
+--- Controllers ---
+clubs
+Application
+users
+
+--- Models --- 
+user
+Club
